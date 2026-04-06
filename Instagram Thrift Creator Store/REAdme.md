@@ -8,5 +8,6 @@ Some products are thrifted and only have one piece available. Some are handmade 
 
 ![er-diagram-instagram](./diagram-export-4-6-2026-8_08_22-PM.png)
 
---
+---
+
 Thanks for watching it.
