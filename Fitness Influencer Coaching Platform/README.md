@@ -4,7 +4,7 @@ An online coaching ecosystem where trainers/influencers manage multiple clients 
 
 ---
 
-[fitness-training-centre](./fitness.png)
+![fitness-training-centre](./fitness.png)
 
 ## Table of Contents
 
