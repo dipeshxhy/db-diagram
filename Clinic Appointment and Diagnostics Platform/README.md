@@ -1,6 +1,6 @@
 # Clinic Appointment and Diagnostics Platform — Database Design
 
-![clinic-photo](./online-clicnic.png)
+![clinic-photo](./clinic.png)
 
 A relational database design for a clinic platform that manages patients, doctors, appointments, consultations, diagnostic tests, reports, prescriptions, and payments end to end.
 
